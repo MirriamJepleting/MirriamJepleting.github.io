@@ -1,6 +1,6 @@
 ---
-Tittle: About
-icon: fa user
+title: About
+icon: fa-user
 ---
 I am passionate about the exciting world of Data Analysis, Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). My curiosity drives me to transform raw data into meaningful insights and build intelligent systems that solve real-world problems. 🚀
 

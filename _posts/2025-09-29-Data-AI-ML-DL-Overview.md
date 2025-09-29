@@ -1,7 +1,7 @@
 ---
-title: "Week 1 Assignment – Web Scraping and Data Handling in Python"
+title: "Web Scraping and Data Handling in Python"
 date: 2025-09-29 10:00:00 +0300
-categories: [Assignments, Data Analysis]
+categories: [Data Analysis]
 tags: [Python, Web Scraping, BeautifulSoup, Pandas]
 ---
 

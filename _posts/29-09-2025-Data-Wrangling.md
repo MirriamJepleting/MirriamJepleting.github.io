@@ -1,10 +1,11 @@
 ---
-title: Data Wrangling with Python – Netflix Dataset
-icon: fa-database
+layout: post
+title: "Data Wrangling with Python – Netflix Dataset"
 date: 2025-09-29
-description: A detailed walkthrough of cleaning and structuring the Netflix dataset using Python on Kaggle.
+categories: [data, python, kaggle]
+tags: [netflix, data-wrangling, pandas]
+description: "A detailed walkthrough of cleaning and structuring the Netflix dataset using Python on Kaggle."
 ---
-```
 
 # Data Wrangling with Python – Netflix Dataset
 
@@ -48,7 +49,7 @@ df.head()
 
 ### Step III: Finding Missing Values and Duplicates
 
-Next, I  discovered the missing values per column in the dataset, then output it. After finding the missing values, the second step involved counting the duplicated rows
+Next, I discovered the missing values per column in the dataset, then output it. After finding the missing values, the second step involved counting the duplicated rows.
 
 ```python
 df.isnull().sum()
@@ -203,5 +204,3 @@ Data wrangling is time-consuming and requires significant mental energy, but it 
 Temporary columns used for cleaning were removed, and the dataset was reindexed for clarity. The final cleaned dataset is now ready for further analysis and visualization.
 
 👉 [View the complete notebook on Kaggle](https://www.kaggle.com/code/mirriamjepleting/mirriam-jepleting-cs-da02-25087)
-
----

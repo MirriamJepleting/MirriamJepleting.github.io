@@ -1,6 +1,7 @@
-# Exploratory Data Analysis (EDA) on the Titanic Dataset  
-**Author:** Mirriam Jepleting  
-
+---
+layout: post
+title: "Exploratory Data Analysis (EDA) on the Titanic Dataset"
+author: "Mirriam Jepleting"
 ---
 
 ## Introduction  

@@ -6,14 +6,12 @@ tags: [Power BI, Data Analytics, Business Intelligence, Cyber Shujaa]
 ---
 
 # Business Intelligence on Power BI  
-**Author:** Mirriam Jepleting  
-**Program:** Cyber Shujaa  
-**Week 4 Assignment**
+**Author:** Mirriam Jepleting   
 
 ---
 
 ## Introduction  
-This assignment focused on developing hands-on experience in **Business Intelligence** using **Power BI** for hotel management.  
+This project focused on developing hands-on experience in **Business Intelligence** using **Power BI** for hotel management.  
 The goal was to understand the business and client needs, load and transform data, build DAX measures, create dashboards, and publish the final project as part of a professional portfolio.
 
 **Source Dataset:** [Codebasics End-to-End Data Analyst Project](https://codebasics.io/resources/end-to-end-data-analyst-project)

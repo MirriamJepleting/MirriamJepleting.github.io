@@ -11,142 +11,143 @@ tags: [Tableau, Data Visualization, Business Intelligence, HR Analytics, Dashboa
 ---
 
 ## Introduction  
-This project presents a comprehensive **Human Resources (HR) Analytics Dashboard** developed using **Tableau**. The goal was to visualize workforce data and uncover patterns in hiring, employee demographics, performance, and compensation.  
+This project presents a comprehensive **Human Resources (HR) Analytics Dashboard** developed using **Tableau**.  
+The purpose was to visualize workforce data and uncover insights related to hiring, employee demographics, performance, and compensation.  
 
-Through this project, I designed and implemented an end-to-end visualization process—covering data preparation, exploration, and dashboard creation—to enhance organizational decision-making through data-driven insights.  
+The dataset used contained records of employees, departments, job titles, and demographic information such as age, gender, education, and salary. It provided a strong foundation for analyzing workforce distribution and trends within an organization.  
 
-**Dataset Source:** [Tableau HR Project – Data With Baraa](https://www.datawithbaraa.com/tableau/tableau-hr-project-thank-you/)
+The project demonstrates my ability to transform raw HR data into actionable insights through **data cleaning, exploration, and interactive visualization** — resulting in an executive-ready dashboard that enhances HR decision-making.
 
 ---
 
 ## Project Objectives  
-- Design an interactive dashboard to visualize HR metrics and workforce patterns.  
-- Track employee hiring, retention, and turnover across years.  
-- Analyze workforce demographics including gender, age, and education.  
-- Identify salary and performance patterns across departments.  
-- Provide executives with actionable insights for HR planning and policy design.
+- Build a fully interactive dashboard for monitoring HR performance indicators.  
+- Analyze employee trends in hiring, retention, and attrition.  
+- Explore demographic patterns by age, gender, and education.  
+- Identify performance and salary trends across departments.  
+- Present findings in a professional, visually engaging Tableau dashboard.
 
 ---
 
 ## Data Preparation and Exploration  
-The dataset was imported into Tableau as a text file and explored through various dimensions and measures.  
+The dataset was imported as a text file and explored across several key dimensions.  
 
-### Data Formatting  
-The initial setup involved:  
-- Configuring consistent data types and field names.  
-- Setting a unified dashboard theme using a **dark background with grey typography** for improved readability.  
-- Defining custom color schemes to distinguish employee categories such as *Active*, *Terminated*, and *Hired*.  
+### Data Cleaning and Formatting  
+- Standardized field names and data types for consistency.  
+- Removed redundant and incomplete records.  
+- Created calculated fields for improved segmentation and comparison.  
+- Defined a consistent visual style with a dark background, soft grey font, and clear color contrast for better readability.  
 
 ### Exploratory Analysis  
-Using Tableau’s worksheet interface, data was explored through summary tables and charts to understand structure, missing data, and categorical distributions before dashboard construction.
+Preliminary exploration included summary statistics, frequency distributions, and early visualization drafts to guide dashboard layout and chart selection.
 
 ---
 
 ## Summary Overview  
 
 ### 1. Workforce Overview  
-KPI cards were created to display:  
+Key Performance Indicator (KPI) cards were used to highlight:  
 - **Total Employees**  
 - **Total Hired Employees**  
 - **Total Terminated Employees**  
 
-These indicators provided a high-level snapshot of the organization’s workforce composition.
+These metrics gave an instant overview of workforce size and movement.
 
 ### 2. Hiring and Termination Trends  
-To examine workforce movement, **line charts synchronized with area charts** were used:  
-- Hiring trends revealed the company’s growth trajectory.  
-- Termination trends highlighted workforce stability and retention rates over time.
+**Line and area charts** were combined to visualize the number of employees hired and terminated over time, revealing workforce growth trends and turnover fluctuations.
 
 ### 3. Departmental Structure  
-A **bar chart** visualized the total employees by department and job title, revealing departments with the highest staffing levels and highlighting potential capacity gaps.
+A **bar chart** displayed employee distribution by department and job title, providing visibility into department sizes and identifying areas with staffing imbalances.
 
 ### 4. Headquarters vs Branch Comparison  
-Using a comparative bar chart, employee counts between the **Nairobi headquarters** and other regional branches were analyzed. Results showed Nairobi as the primary employment hub with the highest workforce concentration.
+A comparative **bar chart** illustrated workforce distribution between the headquarters and branch offices. The results highlighted the dominance of the headquarters in overall staffing.
 
 ### 5. Geographic Distribution  
-A **map visualization** was developed to show employee distribution by town and region. The map effectively illustrated that Nairobi accounted for the majority of employees, offering geographical context for HR planning.
+A **map visualization** showed employee locations by city and region, providing geographical context for staffing patterns and branch expansion planning.
 
 ---
 
-## Demographics Analysis  
+## Demographic Analysis  
 
 ### 1. Gender Distribution  
-A **dual pie chart** displayed gender ratios, segmented by employment status (active vs. terminated). This helped identify gender balance across employment outcomes.
+A **dual pie chart** depicted gender ratios, segmented by employment status (active and terminated). This provided insights into gender representation across employment outcomes.
 
 ### 2. Age and Education Distribution  
-A **bubble chart** revealed the relationship between age groups and education levels. This view helped identify workforce qualification patterns and the correlation between education and employee maturity.
+A **bubble chart** mapped age groups against education levels, revealing workforce qualifications and generational trends within the organization.
 
 ### 3. Employee Count by Age Group  
-A **horizontal bar chart** summarized the total number of employees within each age bracket. The age group **35–44** emerged as the most dominant segment, indicating mid-career maturity in the organization.
+A **horizontal bar chart** summarized employee totals within each age group. The most represented age bracket was **35–44**, indicating a mature, mid-career workforce.
 
 ### 4. Employee Count by Education Level  
-Vertical bar charts compared educational attainment across the workforce. Employees with **Bachelor’s degrees** represented the largest share, followed by Master’s and PhD holders.
+**Vertical bar charts** visualized the distribution of employees by education level, showing that individuals with bachelor’s degrees formed the largest segment, followed by those with master’s qualifications.
 
-### 5. Education and Performance Correlation  
-A **performance vs. education scatter chart** was used to examine how academic qualifications influenced performance ratings. Employees with **Master’s degrees** showed the strongest correlation with high performance.
+### 5. Education vs Performance  
+A **scatter or combined bar chart** was used to compare educational background with performance ratings. Employees with master’s degrees demonstrated the highest overall performance ratings.
 
 ---
 
 ## Income and Compensation Insights  
 
 ### 1. Salary Comparison by Gender and Education  
-A **dual line chart** was created to compare average salaries across education levels for male and female employees. This view exposed salary disparities and potential gender pay gaps.
+A **dual line chart** illustrated salary averages across education levels for both genders. This visualization helped identify patterns or discrepancies in pay between male and female employees.
 
 ### 2. Salary vs. Age by Department  
-A **shape-based scatter chart** visualized the correlation between employee age and average salary by department. This helped identify roles with the highest earning potential and observed how experience influenced compensation.
+A **shape-based scatter chart** was used to show how salary correlated with age across departments. The visual highlighted senior roles with higher compensation and entry-level roles with more modest pay ranges.
 
 ---
 
 ## Dashboard Development  
 
-Two main dashboards were built to consolidate the insights:  
+Two key dashboards were created to summarize and communicate findings:
 
 ### **HR Overview Dashboard**  
-This dashboard provides a comprehensive overview of the organization’s workforce metrics, including total hires, terminations, departmental distribution, and employee demographics.  
+- Displays workforce size, hiring and termination trends, department composition, and demographics.  
+- Provides a top-level view of organizational dynamics.  
 
 ### **Employee Records Dashboard**  
-Focused on individual-level insights, this view allows HR teams to filter and explore detailed employee records interactively.
+- Offers detailed insights into individual employee profiles.  
+- Supports filtering by gender, department, and education level for granular analysis.  
 
-Both dashboards were structured with clean navigation, uniform color themes, and intuitive filters.
+Both dashboards followed a structured design with minimal clutter, consistent color palettes, and intuitive filter controls.
 
 ---
 
 ## Publishing and Access  
 
-The final dashboards were published publicly on Tableau Cloud for viewing and sharing.  
+The dashboards were published to **Tableau Public** for sharing and portfolio presentation.  
 
 🔗 **Tableau Public Link:**  
-[View HR Dashboard](https://public.tableau.com/app/profile/mirriam.jepleting/viz/HRDashboard_17605612655590/HRSUMMARY)
+[View HR Analytics Dashboard](https://public.tableau.com/app/profile/mirriam.jepleting/viz/HRDashboard_17605612655590/HRSUMMARY)
 
 ---
 
 ## Key Insights  
-- Nairobi hosts the largest proportion of employees, confirming its role as the central hub.  
-- Workforce growth is evident, with consistent hiring trends over the years.  
-- Gender representation remains balanced, though minor salary discrepancies exist.  
-- Most employees fall within the 35–44 age group, aligning with peak productivity years.  
-- Employees with higher education (Master’s level) generally achieve stronger performance scores.
+- Workforce growth is evident over time, with consistent hiring trends.  
+- Nairobi (headquarters) accounts for the highest employee concentration.  
+- Gender balance remains strong, though salary differences exist between genders.  
+- The majority of employees are within the 35–44 age group, indicating a seasoned workforce.  
+- Higher education levels correlate positively with stronger performance outcomes.
 
 ---
 
-## Challenges and Learnings  
-Building this dashboard required balancing aesthetics with analytical depth.  
-Some challenges included:
-- Maintaining visual clarity while integrating multiple KPIs.  
-- Choosing chart types that best represented relationships between variables.  
-- Ensuring responsiveness and interactivity in Tableau Public.  
+## Challenges and Lessons Learned  
+Developing the dashboard required balancing **clarity, accuracy, and design**.  
+Some of the challenges included selecting the most effective visual types and managing data relationships for calculated measures.  
 
-The project enhanced my understanding of **data visualization principles**, **dashboard design**, and **storytelling with data** — essential skills for transforming raw HR data into executive-ready insights.
+Key lessons learned:  
+- Consistency in data formatting ensures smoother dashboard integration.  
+- Simplicity enhances comprehension—fewer, clearer visuals have more impact.  
+- Storytelling through visualization turns numbers into actionable insights.
 
 ---
 
 ## Conclusion  
-The HR Analytics Dashboard built with Tableau demonstrates how data visualization can turn complex workforce data into actionable intelligence.  
-Through interactive dashboards, HR managers can monitor employee distribution, performance, and compensation trends efficiently.  
+The HR Analytics Dashboard illustrates how **data visualization** can transform workforce data into powerful insights that drive strategic decisions.  
+Using Tableau, I was able to integrate data preparation, analytics, and visual storytelling into a cohesive, executive-ready solution.  
 
-This project underscores my ability to combine **technical visualization skills** with **strategic business understanding**, delivering insights that drive organizational improvement.
+This project reflects strong technical capability in **data visualization, business understanding, and BI dashboard design**—key strengths I continue to build upon.
 
 ---
 
 **Prepared by:** *Mirriam Jepleting*  
-**Date:** October 24, 2025
+**Date:** October 31, 2025

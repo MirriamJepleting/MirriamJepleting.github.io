@@ -1,8 +1,9 @@
 ---
 title: Resume
 icon: fas fa-file-alt
-order: 5
+order: 6
 ---
+
 
 # Mirriam Jepleting  
 📍 Kangemi, Nairobi, Kenya  

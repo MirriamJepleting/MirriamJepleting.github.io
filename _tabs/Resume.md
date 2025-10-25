@@ -4,107 +4,111 @@ icon: fas fa-file-alt
 order: 5
 ---
 
-# Mirriam Jepleting
+# Mirriam Jepleting  
 📍 Kangemi, Nairobi, Kenya  
-📞 +254 790 630 407  
-📧 mirriamjepleting@gmail.com  
-🔗 [GitHub](https://github.com/mirriamjepleting)  
+📧 mirriamjepleting@gmail.com | 📞 +254 790 630 407  
+🔗 [GitHub](https://github.com/mirriamjepleting)
 
 ---
 
-## Professional Profile
-Proficient IT professional with over 3 years of experience in computer operations management and system implementation. Experienced in data collection, data entry and verification, and building automated dashboards and visual reports. Skilled in data analysis, process improvement, and information security practices. Passionate about using analytics and visualization to support decision making and operational efficiency.
+## 🧭 Profile Summary
+Results-driven professional with a strong foundation in **data analytics, information technology, and systems management**.  
+Experienced in **data collection, processing, visualization, and interpretation** using tools such as Python, Excel, and Power BI.  
+Passionate about leveraging data to enhance decision-making, efficiency, and performance across education, business, and research contexts.  
+Recognized for strong tutoring, analytical, and communication skills with a commitment to continuous learning and mentoring others.
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
-**Freelance Tutor / Data Analyst (Freelancer)**  
-*Dec 2019 – March 2025*  
-- Delivered data analysis services to entrepreneurs, students, and small businesses.  
-- Performed EDA, built visualizations using Excel and Python, and automated dashboards with Google Sheets / Data Studio.  
-- Advised clients on data-driven decision making and managed full project life cycles.
+### **Freelance Tutor & Data Analyst**  
+*Dec 2019 – Mar 2025 | Remote*  
+- Delivered tailored **data analysis and tutoring services** to students, entrepreneurs, and small businesses.  
+- Analyzed survey, sales, and research data using **Excel** and **Python** to uncover insights and generate reports.  
+- Designed **automated dashboards** in **Google Sheets** and **Data Studio** to help clients monitor performance metrics.  
+- Trained learners in **data cleaning, visualization, and interpretation** for academic and professional use.  
+- Managed complete client projects independently — from scoping and analysis to delivery and presentation.  
 
-**Data Entry Clerk — Uasin Gishu Government**  
+### **Data Entry Clerk – County Government of Uasin Gishu**  
 *Sep 2019 – Oct 2019 | Eldoret, Kenya*  
-- Updated and maintained computer records; prepared source data for entry.  
-- Processed birth and death certificate data; verified entered records for quality and accuracy.
+- Entered and verified civil registry data with high accuracy and attention to detail.  
+- Prepared, validated, and organized records for departmental use.  
+- Maintained confidentiality and ensured data integrity during processing.  
 
-**Census Enumerator — Kenya National Bureau of Statistics (KNBS)**  
-*Aug 2019*  
-- Collected demographic and housing data through interviews and visual surveys.  
-- Recorded data accurately, maintained confidentiality, and reported progress to supervisors.
+### **Census Enumerator – Kenya National Bureau of Statistics (KNBS)**  
+*Aug 2019 | Eldoret, Kenya*  
+- Collected and validated demographic and household data for national census.  
+- Ensured accuracy, confidentiality, and timely data submission.  
+- Contributed to reliable national statistics through effective field data collection.  
 
-**Attaché — NHIF Offices, Embu**  
+### **Attaché – National Health Insurance Fund (NHIF), Embu**  
 *May 2018 – Sep 2018*  
-- Verified and reconciled NHIF records and maintained databases.  
-- Performed backups, generated reports, and ensured data security and accessibility.
+- Assisted in updating and maintaining insurance member databases.  
+- Supported data verification, reconciliation, and reporting tasks.  
+- Gained practical experience in administrative and system operations.  
 
 ---
 
-## Education
+## 🎓 Education
 
-**Bachelor of Applied Computer Science** — *Chuka University*  
-*Sep 2015 – Oct 2019*  
-- Final grade: Second Class (Lower Division)  
-- Relevant topics: Web Design & Development, Software Engineering, Artificial Intelligence, Computer & Network Security, Data Mining.
+**Bachelor of Applied Computer Science** — *Chuka University, Kenya*  
+Focus Areas: Data Mining, Software Engineering, AI, Network Security, and Web Development.  
 
 **Kenya Certificate of Secondary Education (KCSE)** — *Loreto High School, Matunda*  
-- Final grade: B+
 
 ---
 
-## Certifications & Training
-- Google Data Analytics (2025)  
-- Cyber Threat Management — Cisco (2025)  
-- Network Support & Security — Cisco (2025)  
-- Introduction to Cybersecurity — Cisco (2025)
+## 🧠 Certifications
+- **Google Data Analytics** – Coursera (2025)  
+- **Cyber Threat Management** – Cisco (2025)  
+- **Network Support & Security** – Cisco (2025)  
+- **Introduction to Cybersecurity** – Cisco (2025)  
 
 ---
 
-## Technical & Professional Skills
-- **Data / Analysis:** Data collection, verification, cleaning, EDA, reporting  
-- **Tools & Languages:** Microsoft Excel, Google Sheets, Python (Pandas, NumPy), MySQL, Power BI, Tableau  
-- **Software / Systems:** Database management, backups, data entry systems  
-- **Other skills:** Critical thinking, teamwork, communication, reliability, decision-making
+## 🧰 Skills
+- **Programming & Tools:** Python (Pandas, NumPy), SQL, MySQL, Excel, Power BI, Tableau, Google Data Studio  
+- **Data Analytics:** Data collection, cleaning, visualization, and insight generation  
+- **Systems:** Database management, data validation, and system maintenance  
+- **Soft Skills:** Teamwork, communication, critical thinking, adaptability, leadership  
 
 ---
 
-## Languages
-- English — C2  
-- Kiswahili — C2  
-- German — A2  
-- Mother tongue: Kalenjin
+## 🌍 Languages
+- English – Fluent  
+- Kiswahili – Fluent  
+- German – Intermediate (A2)  
+- Kalenjin – Native  
 
 ---
 
-## Volunteering & Activities
-- Visited Kenya Connect Kids (2018)  
-- Participated in Mater Heart Run (2018)  
-- School executive leader; Head Girl roles during school years
-- Visited Gardens Children's Home, Kawangware 2024
+## 💙 Volunteering & Leadership
+- **Kenya Connect Kids (2018):** Mentored students and promoted digital literacy.  
+- **Mater Heart Run (2018):** Supported community health and outreach programs.  
+- **Loreto High School:** Served as Head Girl and Guidance & Counselling representative, leading student initiatives.  
 
 ---
 
-## Awards & Memberships
-- Certificate of Commendation, Student Council — Loreto High School, Matunda  
-- Certificate of Appreciation, Guiding & Counselling — Loreto High School, Matunda  
-- Member — Chuka University Alumni Association  
-- Member — Loreto High School, Matunda Alumni Association
+## 🏆 Awards & Memberships
+- Certificate of Commendation – Student Council, Loreto High School, Matunda  
+- Certificate of Appreciation – Guidance & Counselling, Loreto High School, Matunda  
+- Member – Chuka University Alumni Association  
+- Member – Loreto High School Alumni Association  
 
 ---
 
-## References
-**Dr. David Gitonga Mwathi** — Associate Professor, Chuka University  
-Email: dgmwathi@chuka.ac.ke | Phone: +254 722 395 597
+## 📞 References
+**Dr. David Gitonga Mwathi**  
+Associate Professor – Chuka University  
+📧 dgmwathi@chuka.ac.ke | 📞 +254 722 395 597  
 
-**Dr. Benard Ong'era Osero** — Lecturer, Chuka University  
-Email: bosero@chuka.ac.ke | Phone: +254 724 850 225
+**Dr. Benard Ong’era Osero**  
+Lecturer – Chuka University  
+📧 bosero@chuka.ac.ke | 📞 +254 724 850 225  
 
 ---
 
-## Download / View Full CV
-[📥 Download full CV (PDF)](/assets/Mirriam_Jepleting_Resume.pdf)
+## 📄 View or Download Resume
+[📥 **Download Resume (PDF)**](/assets/Mirriam_Jepleting_Resume.pdf)
 
 <iframe src="/assets/Mirriam_Jepleting_Resume.pdf" width="100%" height="900px"></iframe>
-

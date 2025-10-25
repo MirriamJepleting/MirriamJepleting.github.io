@@ -4,7 +4,6 @@ icon: fas fa-file-alt
 order: 6
 ---
 
-
 # Mirriam Jepleting  
 📍 Kangemi, Nairobi, Kenya  
 📧 mirriamjepleting@gmail.com | 📞 +254 790 630 407  

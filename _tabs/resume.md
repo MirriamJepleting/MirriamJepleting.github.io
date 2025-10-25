@@ -31,8 +31,18 @@ Delivered customized analytical services and data training to students, entrepre
 ---
 
 ## 🎓 Education
-**Bachelor’s Degree in Computer Science**  
-Kabarak University, Kenya
+
+**Bachelor of Applied Computer Science**  
+*Chuka University* — Nairobi, Kenya | *Sept 2015 – Oct 2019*  
+- Web Design and Development, Web Programming and Administration  
+- Software Engineering, Artificial Intelligence  
+- Computer and Network Security, E-Commerce Technologies  
+- Emerging Technologies in Applied Computer Science  
+- Data Mining and Knowledge Discovery  
+🔗 [University Website](https://www.chuka.ac.ke/)
+
+**Kenya Certificate of Secondary Education (KCSE)**  
+*Loreto High School, Matunda* — Eldoret, Kenya | *Feb 2011 – Nov 2014*
 
 ---
 

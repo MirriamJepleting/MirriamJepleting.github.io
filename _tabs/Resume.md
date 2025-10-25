@@ -13,7 +13,7 @@ order: 5
 
 ## 🧭 Profile Summary
 Results-driven professional with a strong foundation in **data analytics, information technology, and systems management**.  
-Experienced in **data collection, processing, visualization, and interpretation** using tools such as Python, Excel, and Power BI.  
+Experienced in **data collection, processing, visualization, and interpretation** using tools such as **Python, Excel, and Power BI**.  
 Passionate about leveraging data to enhance decision-making, efficiency, and performance across education, business, and research contexts.  
 Recognized for strong tutoring, analytical, and communication skills with a commitment to continuous learning and mentoring others.
 
@@ -37,7 +37,7 @@ Recognized for strong tutoring, analytical, and communication skills with a comm
 
 ### **Census Enumerator – Kenya National Bureau of Statistics (KNBS)**  
 *Aug 2019 | Eldoret, Kenya*  
-- Collected and validated demographic and household data for national census.  
+- Collected and validated demographic and household data for the national census.  
 - Ensured accuracy, confidentiality, and timely data submission.  
 - Contributed to reliable national statistics through effective field data collection.  
 
@@ -52,7 +52,7 @@ Recognized for strong tutoring, analytical, and communication skills with a comm
 ## 🎓 Education
 
 **Bachelor of Applied Computer Science** — *Chuka University, Kenya*  
-Focus Areas: Data Mining, Software Engineering, AI, Network Security, and Web Development.  
+Focus Areas: Data Mining, Software Engineering, Artificial Intelligence, Network Security, and Web Development.  
 
 **Kenya Certificate of Secondary Education (KCSE)** — *Loreto High School, Matunda*  
 

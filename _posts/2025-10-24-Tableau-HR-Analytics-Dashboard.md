@@ -2,6 +2,7 @@
 layout: post
 title: "Data Visualization with Tableau: HR Analytics Dashboard"
 author: "Mirriam Jepleting"
+categories: [Projects, Data Analysis,Tableau,Data Visualization,Dashboard]
 tags: [Tableau, Data Visualization, Business Intelligence, HR Analytics, Dashboard]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploratory Data Analysis (EDA) on the Titanic Dataset"
-categories: [Projects, Data Analysis]
+categories: [Projects, Data Analysis,EDA]
 author: "Mirriam Jepleting"
 ---
 

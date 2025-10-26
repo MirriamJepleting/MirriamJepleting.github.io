@@ -2,7 +2,7 @@
 layout: post
 title: "Data Wrangling with Python – Netflix Dataset"
 date: 2025-09-29
-categories: [data, python, kaggle]
+categories: [data, python, kaggle,Projects, Data Analysis]
 tags: [netflix, data-wrangling, pandas]
 description: "A detailed walkthrough of cleaning and structuring the Netflix dataset using Python on Kaggle."
 ---

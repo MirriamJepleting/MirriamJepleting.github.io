@@ -60,9 +60,8 @@ Delivered customized analytical services and data training to students, entrepre
 - **Sales Insights Dashboard (Power BI):** Automated sales performance tracking and forecasting.  
 
 ---
-
 ## 📁 Resume Download
-[📥 **Download Resume (PDF)**](assets/Mirriam_Jepleting_Resume.pdf)  
+[📥 **Download Resume (PDF)**](assets/Mirriam_Jepleting_Resume.pdf)
 
 <iframe src="assets/Mirriam_Jepleting_Resume.pdf" width="100%" height="900px"></iframe>
 

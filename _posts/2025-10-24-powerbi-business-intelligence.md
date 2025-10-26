@@ -2,6 +2,7 @@
 layout: post
 title: "Business Intelligence with Power BI: Hotel Performance Analysis"
 author: "Mirriam Jepleting"
+categories: [Projects, Data Analysis]
 tags: [Power BI, Data Analytics, Business Intelligence, Dashboard, Data Modeling, DAX]
 ---
 

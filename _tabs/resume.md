@@ -63,7 +63,7 @@ Delivered customized analytical services and data training to students, entrepre
 ## 📁 Resume Download
 [📥 **Download Resume (PDF)**](/assets/Mirriam_Jepleting_Resume.pdf)
 
-<iframe src="./assets/Mirriam_Jepleting_Resume.pdf" width="100%" height="900px"></iframe>
+<iframe src="/assets/Mirriam_Jepleting_Resume.pdf" width="100%" height="900px"></iframe>
 ---
 
 **Updated:** October 2025

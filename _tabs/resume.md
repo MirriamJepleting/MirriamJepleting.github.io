@@ -12,7 +12,7 @@ order: 2
 ---
 
 ## 👩‍💻 Professional Summary
-Passionate and detail-oriented **Data Analyst & Tutor** with strong expertise in **data visualization, analytics, and storytelling**. Skilled in guiding learners and businesses to make data-driven decisions using tools such as **Python, Power BI, Tableau, and Excel**. Experienced in transforming raw datasets into meaningful insights and interactive dashboards that support performance tracking and strategic planning.
+Passionate and detail-oriented **Data Analyst & Tutor** with expertise in **data visualization, analytics, and storytelling**. Skilled at guiding learners and businesses to make data-driven decisions using **Python, Power BI, Tableau, and Excel**. Experienced in transforming raw datasets into meaningful insights and interactive dashboards that support performance tracking and strategic planning.
 
 ---
 
@@ -25,7 +25,7 @@ Delivered customized analytical services and data training to students, entrepre
 - Conducted data cleaning, analysis, and visualization using **Excel, Python, and Tableau**.  
 - Developed **automated dashboards** to track KPIs and enhance business insights.  
 - Provided one-on-one tutoring in **data analytics, visualization, and statistics**.  
-- Supported clients in **academic research**, budgeting, and marketing analytics.  
+- Supported clients in **academic research, budgeting, and marketing analytics**.  
 - Managed projects independently, ensuring clear communication and timely delivery.
 
 ---
@@ -33,16 +33,16 @@ Delivered customized analytical services and data training to students, entrepre
 ## 🎓 Education
 
 **Bachelor of Applied Computer Science**  
-*Chuka University* — Nairobi, Kenya | *07 Sept 2015 – 18 Oct 2019*  
-- Web Design and Development, Web Programming and Administration  
+*Chuka University* — Nairobi, Kenya | *Sept 2015 – Oct 2019*  
+- Web Design & Development, Web Programming & Administration  
 - Software Engineering, Artificial Intelligence  
-- Computer and Network Security, E-Commerce Technologies  
+- Computer & Network Security, E-Commerce Technologies  
 - Emerging Technologies in Applied Computer Science  
-- Data Mining and Knowledge Discovery  
+- Data Mining & Knowledge Discovery  
 🔗 [University Website](https://www.chuka.ac.ke/)
 
 **Kenya Certificate of Secondary Education (KCSE)**  
-*Loreto High School, Matunda* — Eldoret, Kenya | *07 Feb 2011 – 08 Nov 2014*
+*Loreto High School, Matunda* — Eldoret, Kenya | *Feb 2011 – Nov 2014*
 
 ---
 
@@ -62,9 +62,9 @@ Delivered customized analytical services and data training to students, entrepre
 ---
 
 ## 📁 Resume Download
-[📥 **Download Resume (PDF)**](/assets/Mirriam_Jepleting_Resume.pdf)
+[📥 **Download Resume (PDF)**](assets/Mirriam_Jepleting_Resume.pdf)  
 
-<iframe src="/assets/Mirriam_Jepleting_Resume.pdf" width="100%" height="900px"></iframe>
+<iframe src="assets/Mirriam_Jepleting_Resume.pdf" width="100%" height="900px"></iframe>
 
 ---
 

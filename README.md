@@ -41,3 +41,13 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 📬 Contact
+
+I'm always open to connecting and collaborating!
+
+- **Email:** [mirriamjepleting@gmail.com](mailto:mirriamjepleting@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mirriam-jepleting](https://linkedin.com/in/mirriam-jepleting)
+- **GitHub:** [github.com/mirriamjepleting](https://github.com/mirriamjepleting)
+- **Tableau:** [public.tableau.com/app/profile/mirriam](https://public.tableau.com/app/profile/mirriam)
+
+Feel free to reach out for projects, data science discussions, or collaboration opportunities!

@@ -15,6 +15,7 @@ order: 2
 - [Kaggle](https://www.kaggle.com/mirriamjepleting)  
 - [Power BI](https://app.powerbi.com/)  
 - [LinkedIn](https://www.linkedin.com/in/mirriam-jepleting-ab4b91311)
+  
 ---
 
 ## 👩‍💻 Professional Summary

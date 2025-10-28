@@ -13,8 +13,8 @@ order: 2
 - [GitHub](https://github.com/mirriamjepleting)  
 - [Tableau](https://public.tableau.com/app/profile/mirriam.jepleting)  
 - [Kaggle](https://www.kaggle.com/mirriamjepleting)  
-- [Power BI](https://app.powerbi.com/)  
 - [LinkedIn](https://www.linkedin.com/in/mirriam-jepleting-ab4b91311)
+- [Power BI](https://app.powerbi.com/)  
   
 ---
 

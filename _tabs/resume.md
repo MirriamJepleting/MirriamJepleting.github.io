@@ -7,7 +7,11 @@ order: 2
 # Mirriam Jepleting  
 📍 Nairobi, Kenya  
 📧 [mirriamjepleting@gmail.com](mailto:mirriamjepleting@gmail.com)  
-🔗 [GitHub](https://github.com/mirriamjepleting) | [Tableau](https://public.tableau.com/app/profile/mirriam.jepleting) | [Kaggle](https://www.kaggle.com/mirriamjepleting) | [Power BI](https://app.powerbi.com/)
+🔗 [GitHub](https://github.com/mirriamjepleting)
+    [Tableau](https://public.tableau.com/app/profile/mirriam.jepleting)
+    [Kaggle](https://www.kaggle.com/mirriamjepleting)
+    [Power BI](https://app.powerbi.com/)
+    [https://www.linkedin.com/in/mirriam-jepleting-ab4b91311]
 
 ---
 

@@ -72,7 +72,7 @@ df.describe()
 
 This helped identify average values, variability, and potential outliers before modeling.
 
-Data Visualization
+##Data Visualization
 
 A scatter plot was used to examine the relationship between house area and price.
 
@@ -98,7 +98,7 @@ y = df["price"]
 
 No missing values were found, so no additional cleaning was required.
 
-Model Training
+###Model Training
 
 The dataset was split into training and testing sets, and a Linear Regression model was trained.
 
@@ -112,7 +112,7 @@ model.fit(X_train, y_train)
 
 This allows the model to learn patterns from training data and generalize to unseen data.
 
-Model Evaluation
+###Model Evaluation
 
 The model was evaluated using Mean Squared Error (MSE) and R-squared (R²).
 
@@ -145,16 +145,16 @@ plt.show()
 
 The regression line closely fits the data points, confirming good model performance.
 
-Conclusion
+###Conclusion
 
 Despite the small dataset size, this project provided valuable hands-on experience in building and evaluating a regression model.
 It strengthened my understanding of:
 
 Feature–target relationships
 
-Model evaluation metrics
+###Model evaluation metrics
 
-Visual interpretation of regression results
+###Visual interpretation of regression results
 
 This project demonstrates how linear regression can be applied to make meaningful predictions from real-world data.
 

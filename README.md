@@ -49,5 +49,7 @@ I'm always open to connecting and collaborating!
 - **LinkedIn:** [linkedin.com/in/mirriam-jepleting](https://linkedin.com/in/mirriam-jepleting)
 - **GitHub:** [github.com/mirriamjepleting](https://github.com/mirriamjepleting)
 - **Tableau:** [public.tableau.com/app/profile/mirriam](https://public.tableau.com/app/profile/mirriam)
+- test
+  
 
 Feel free to reach out for projects, data science discussions, or collaboration opportunities!
